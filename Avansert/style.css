@@ -1,0 +1,32 @@
+
+.test-class {
+    color: green;
+}
+
+.image-class{
+   color:aqua;
+}
+
+
+body{
+    background-color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 3cm;
+}
+
+.test-site-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: cyan;
+    font-size: 20;
+}
+
+footer{
+    color: red;
+}
+
+
